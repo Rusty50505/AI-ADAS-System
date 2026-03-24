@@ -1,5 +1,5 @@
 # ==============================
-# AI BASED ADAS SYSTEM (Student Version)
+# AI BASED ADAS SYSTEM 
 # This is part of our capstone project exploration
 # ==============================
 
