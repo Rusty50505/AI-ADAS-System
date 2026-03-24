@@ -16,7 +16,7 @@ This project implements an AI-based Advanced Driver Assistance System (ADAS) usi
 - YOLOv8 (Ultralytics)
 - Streamlit
 
-## How to Run
+## How to Run (for Mac)
 ```bash
 pip install streamlit opencv-python ultralytics numpy
 streamlit run adas_dashboard.py
